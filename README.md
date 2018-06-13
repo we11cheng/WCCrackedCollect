@@ -4,3 +4,4 @@
 - 2018-6-12 doubleH3lix [Jailbreak for iOS 10.x 64bit devices](https://github.com/tihmstar/doubleH3lix) ipa包见工程Target目录。
 - 2018-6-12 酷我音乐无损音质.ipa
 - 2018-6-13 钉钉远程打卡插件 支持Wi-Fi和定位。
+- 2018-6-13 微信红包
