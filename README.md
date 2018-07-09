@@ -6,3 +6,4 @@
 - 2018-6-13 钉钉远程打卡插件 支持Wi-Fi和定位。
 - 2018-6-13 微信红包
 - 2018-6-14 又一越狱神器g0blin 参考地址<https://github.com/Sticktron/g0blin>
+- 2018-7-9 YeahMovie免费VIP视频观看，支持腾讯、优酷、爱奇艺、芒果TV、影视大全
